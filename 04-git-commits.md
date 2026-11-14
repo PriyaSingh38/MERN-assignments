@@ -1,6 +1,6 @@
 # one-time identity setup
-git config --global user.name  "Your Name"
-git config --global user.email "you@example.com"
+git config --global user.name  "Priya Singh"
+git config --global user.email "singhpriya4476@gmail.com"
 
 # create the repo
 mkdir html-css-assignments && cd html-css-assignments
